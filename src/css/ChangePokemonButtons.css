@@ -1,0 +1,19 @@
+.button-wrap {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    width: 95%;
+}
+
+.button-wrap button{
+    height: 2.5rem;
+    width: 6rem;
+}
+
+/* .button-wrap .back{
+    height: 1rem;
+}
+
+.button-wrap .next{
+    float: right;
+} */

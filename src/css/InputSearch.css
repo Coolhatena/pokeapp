@@ -1,0 +1,18 @@
+input{
+    color: gray;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    width: 95%;
+}
+
+input:focus {
+    color: black;
+    outline-color: #474747;
+}
+
+hr {
+    border: 0; 
+    border-top: 2px solid #929292;
+    height: 1px;
+    width: 90%; 
+}
