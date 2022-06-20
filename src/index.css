@@ -1,6 +1,10 @@
 
 body {
   margin: 0;
+  background: rgb(255,255,255);
+  background: linear-gradient(145deg, rgba(255,255,255,1) 0%, rgba(197,225,227,1) 22%, rgba(119,220,255,1) 100%);
+  width: 100vw;
+  min-height: 100vh;
   font-family: -apple-system, BlinkMacSystemFont, 'Akshar', sans-serif ,'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
   -webkit-font-smoothing: antialiased;

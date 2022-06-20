@@ -18,7 +18,7 @@ export const PokeCard = ({ name, url }) => {
     <div key={id} className="card animate__fadeInUp">
       {(loading)?
         <div className="loading">
-          <div class="spinner"></div>
+          <div className="spinner"></div>
         </div> 
         : 
         <>
